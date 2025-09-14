@@ -18,3 +18,4 @@ terraform state list
 7. Terraform has created a lock file .terraform.lock.hcl to record the provider selections it made. Include this file in your version control repository so that Terraform can guarantee to make the same selections by default when you run "terraform init" in the future.
 
 8. Get the zip & extract the zip content https://developer.hashicorp.com/terraform and https://developer.hashicorp.com/terraform/install#windows
+9. Download Azure CLI on Windows https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest&pivots=winget
